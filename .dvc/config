@@ -1,0 +1,4 @@
+[core]
+    remote = winremote
+['remote "winremote"']
+    url = s3://mlops-demo-zxcv
